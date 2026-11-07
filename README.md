@@ -6,8 +6,8 @@ Team Names:
 4. 
 5. 
 
-Coach Names:
-1.
+Coach Names: 
+1. John Syvertsen
 2.
 3.
 4.
