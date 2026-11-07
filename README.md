@@ -7,7 +7,7 @@ Team Names:
 5.
 
 Coach Names: 
-1.
+1. John Syvertsen
 2.
 3.
 4.
